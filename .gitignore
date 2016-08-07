@@ -1,2 +1,2 @@
-data/*.topojson
+data/maps/*.topojson
 .DS_Store
